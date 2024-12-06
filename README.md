@@ -1,4 +1,4 @@
-#Maze Escape Game
+Maze Escape Game
 
 Maze Escape is a 3D game built in Unity where players navigate through a challenging maze to reach the goal. This project demonstrates gameplay mechanics such as first-person controls, AI enemies, and a timer system, making it both fun and interactive.
 
